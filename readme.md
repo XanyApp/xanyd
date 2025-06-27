@@ -16,8 +16,8 @@ Enhanced performance for both Apple Silicon and Intel Processors.
 
 ### brew
 ```
-brew tap XanyApp/Xanyd https://github.com/XanyApp/Xanyd
-brew install --cask Xanyd
+brew tap XanyApp/xanyd https://github.com/XanyApp/xanyd
+brew install --cask xanyd
 ```
 
 ## Screen shots
