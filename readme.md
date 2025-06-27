@@ -8,6 +8,18 @@ Enhanced performance for both Apple Silicon and Intel Processors.
 - Support H.264 video streaming
 - Support LPCM audio streaming [^3]
 
+## Installation
+### Download frame the Release Page
+1. Down from the [Realease Page](https://github.com/XanyApp/Xanyd/releases)
+2. Open the dmg file
+3. Drag the App to the /Applications folder
+
+### brew
+```
+brew tap XanyApp/Xanyd https://github.com/XanyApp/Xanyd
+brew install --cask Xanyd
+```
+
 ## Screen shots
 ![image info](./images/status_bar.png)
 ![image info](./images/gerneral.png)
