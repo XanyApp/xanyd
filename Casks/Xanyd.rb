@@ -4,7 +4,7 @@ cask "xanyd" do
 
   url "https://github.com/XanyApp/Xanyd/releases/download/v1.5.2/Xanyd_v1.5.2.dmg"
   name "Xanyd"
-  desc "An alternative VNC server "
+  desc "An alternative VNC server."
   homepage "https://xany.app/xanyd.html"
 
   app "Xanyd.app"
