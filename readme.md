@@ -4,9 +4,10 @@ Enhanced performance for both Apple Silicon and Intel Processors.
 
 ## Features
 - Secure connection (TLS v1.3)
+- Support multi-screen
 - Support Curtain mode [^2]
 - Support H.264 video streaming
-- Support LPCM audio streaming [^3]
+- Support LPCM audio playback[^3]
 
 ## Installation
 ### Download frame the Release Page
