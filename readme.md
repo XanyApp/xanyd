@@ -10,7 +10,7 @@ Enhanced performance for both Apple Silicon and Intel Processors.
 - Support LPCM audio playback[^3]
 
 ## Installation
-### Download frame the Release Page
+### Download from the Release Page
 1. Down from the [Realease Page](https://github.com/XanyApp/Xanyd/releases)
 2. Open the dmg file
 3. Drag the App to the /Applications folder
