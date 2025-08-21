@@ -1,7 +1,7 @@
 cask "xanyd" do
-  version "1.6.0"
-  sha256 "71e689c33c79736ba4b594fd262179210b86b8556d51aadc42a3e8ed8c21995b"
-  url "https://github.com/XanyApp/Xanyd/releases/download/v1.6.0/Xanyd_v1.6.0.dmg"
+  version "1.6.1"
+  sha256 "5e88264c4f8769831956ba7d7d98b595f39812968ef2aedce8a03a08493ef1b3"
+  url "https://github.com/XanyApp/Xanyd/releases/download/v1.6.1/Xanyd_v1.6.1.dmg"
   name "Xanyd"
   desc "An alternative VNC server."
   homepage "https://xany.app/xanyd.html"

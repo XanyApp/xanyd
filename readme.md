@@ -26,6 +26,7 @@ brew install --cask xanyd
 ![image info](./images/gerneral.png)
 ![image info](./images/vnc_server.png)
 ![image info](./images/privacy.png)
+![image info](./images/logs.png)
 
 [^1]: Xanyd is **not compatible** with the other VNC clients, only support **Xany VNC** [^2] client.
 [^2]: See more details for [Xany VNC](https://xany.app/xany_vnc.html).
